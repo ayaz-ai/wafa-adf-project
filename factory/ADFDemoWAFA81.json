@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoWAFA81",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b65f7a94-79a0-4065-8a57-7dde92eb6c53",
+		"tenantId": "082ca499-8434-4142-990a-3a60bd333a49"
+	}
+}
